@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "content": "asdsdasdasdasdwqdqewqd",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "content": "asdsdasdasdasdwqdqewqd",
+      "views": 200
+    },
+    {
+      "id": "40a1",
+      "title": "Lorem ipsum",
+      "content": "Lorem ipsum dolor sit amet",
+      "views": 655
+    },
+    {
+      "id": "cf46",
+      "title": "Lorem ipsum 45",
+      "content": "Lorem ipsum dolor sit amet 65\newwq",
+      "views": 644
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicality"
+  }
+}

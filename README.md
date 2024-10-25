@@ -1,24 +1,24 @@
-# work_task_vue2
+# Work task
 
-## Project setup
+## Project setup Node version: v18.12.0
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### ❗️ Please run the json server, for posts to work
+
+### Run json-server
+```
+yarn json-server
+```
+
+### Run project
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
